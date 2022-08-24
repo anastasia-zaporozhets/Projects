@@ -1,0 +1,15 @@
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.csproj.AssemblyReference.cache
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.AssemblyInfoInputs.cache
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.AssemblyInfo.cs
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.csproj.CoreCompileInputs.cache
+/Users/nz/Desktop/Projects/Project_003/bin/Debug/net6.0/Project_003
+/Users/nz/Desktop/Projects/Project_003/bin/Debug/net6.0/Project_003.deps.json
+/Users/nz/Desktop/Projects/Project_003/bin/Debug/net6.0/Project_003.runtimeconfig.json
+/Users/nz/Desktop/Projects/Project_003/bin/Debug/net6.0/Project_003.dll
+/Users/nz/Desktop/Projects/Project_003/bin/Debug/net6.0/Project_003.pdb
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.dll
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/refint/Project_003.dll
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.pdb
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/Project_003.genruntimeconfig.cache
+/Users/nz/Desktop/Projects/Project_003/obj/Debug/net6.0/ref/Project_003.dll
