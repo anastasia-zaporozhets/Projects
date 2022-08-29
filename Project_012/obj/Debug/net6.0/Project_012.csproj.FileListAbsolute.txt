@@ -1,0 +1,5 @@
+/Users/nz/Desktop/Projects/Project_012/obj/Debug/net6.0/Project_012.csproj.AssemblyReference.cache
+/Users/nz/Desktop/Projects/Project_012/obj/Debug/net6.0/Project_012.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nz/Desktop/Projects/Project_012/obj/Debug/net6.0/Project_012.AssemblyInfoInputs.cache
+/Users/nz/Desktop/Projects/Project_012/obj/Debug/net6.0/Project_012.AssemblyInfo.cs
+/Users/nz/Desktop/Projects/Project_012/obj/Debug/net6.0/Project_012.csproj.CoreCompileInputs.cache
